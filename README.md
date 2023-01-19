@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# AtividadeJS
-AtividadeJS
-=======
-# AtividadesJS
-JS
->>>>>>> 67a9217 (Atualização)
+# Exercícios JS
+
+Para atividade Fatecana!
